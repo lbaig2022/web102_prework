@@ -31,14 +31,11 @@ function addGamesToPage(games) {
     // loop over each item in the data
     for (let i = 0; i < games.length; i++) {
 
-
         // create a new div element, which will become the game card
         const gameCard = document.createElement("div");
 
-
         // add the class game-card to the list
         gameCard.classList.add("game-card");
-
 
         // set the inner HTML using a template literal to display some info 
         // about each game
@@ -90,7 +87,6 @@ gamesCard.innerHTML = `${GAMES_JSON.length}`;
  * total number of contributions, amount donated, and number of games on the site.
  * Skills used: functions, filter
 */
-
 // show only games that do not yet have enough funding
 function filterUnfundedOnly() {
     deleteChildElements(gamesContainer);
@@ -102,7 +98,6 @@ function filterUnfundedOnly() {
     addGamesToPage(unfundedGames);
 
 }
-
 // show only games that are fully funded
 function filterFundedOnly() {
     deleteChildElements(gamesContainer);
@@ -123,7 +118,6 @@ function showAllGames() {
    addGamesToPage(GAMES_JSON);
 
 }
-
 // select each button in the "Our Games" section
 const unfundedBtn = document.getElementById("unfunded-btn");
 const fundedBtn = document.getElementById("funded-btn");
@@ -153,7 +147,6 @@ Currently, ${unfundedGames.length} ${
     unfundedGames.length === 1 ? "game remains" : "games remain"
 } unfunded. need help to find games
 `;
-
 // create a new DOM element containing the template string and append it to the description container
 const p = document.createElement("p");
 p.innerText = displayStr;
