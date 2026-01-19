@@ -1,23 +1,25 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
 Submitted by: Laiba Baig
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 5 hours spent in total
+Time spent: 15 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [yes ] The introduction section explains the background of the company and how many games remain unfunded.
+* [ yes] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [ yes] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [ yes] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
+-colors scheme of teh app is more of a green color, visually more appealing
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [yes ] List anything else that you can get done to improve the app functionality!
+*  Adding a better search feture to improve functionality for user
 
 ## Video Walkthrough
 
