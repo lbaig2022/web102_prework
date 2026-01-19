@@ -25,22 +25,23 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+*copy and past in a new browser please to see video walkthrough*
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+https://drive.google.com/file/d/1VUIF2eqSBzGCq52Wf6LCyyixogxRz9MK/view?usp=sharing
+
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+1. challenge 5 in particular was teh hardest for my tp implement i kept getting errors that i did not know how to fix and had to read through the pdf multiple to understand
+
+2. getting my code commit to github also took a lot of my time
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Laiba Baig]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
