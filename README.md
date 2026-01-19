@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-*copy and past in a new browser please to see video walkthrough*
+*link for screen recording of website walkthrough*
 
 https://drive.google.com/file/d/1VUIF2eqSBzGCq52Wf6LCyyixogxRz9MK/view?usp=sharing
 
